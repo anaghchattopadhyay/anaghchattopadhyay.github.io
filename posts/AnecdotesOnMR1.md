@@ -12,6 +12,4 @@ Mendelian Randomization (MR) is a powerful method in modern epidemiology that us
 
 At its core, MR treats genetic variants as **natural experiments**. Because the inheritance of genetic variants is essentially random—much like random assignment in a clinical trial—these variants can serve as *instruments* that shift an exposure (such as cholesterol levels or BMI) in predictable ways. If those genetically influenced differences lead to changes in an outcome (like heart disease or diabetes), we obtain evidence that the exposure is likely causal.
 
-Below are several intuitive ways MR is applied and why it has become a central tool in population health research.
 
----
