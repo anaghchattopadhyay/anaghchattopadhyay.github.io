@@ -16,7 +16,7 @@ description: Anagh's publications
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st May, 2024.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st May, 2025.
 
 
 ### <a name="submitted"></a>Submitted articles
