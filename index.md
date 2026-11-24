@@ -37,6 +37,7 @@ description: Ph.D. candidate in Biostatistics at Johns Hopkins University workin
     <li><span class="date">2026</span><span>Roger Williams Award finalist, International Genetic Epidemiology Society</span></li>
     <li><span class="date">2026</span><span>ACIC Travel Award, Society for Causal Inference</span></li>
     <li><span class="date">2026</span><span>Bruce Weir Scholarship, Summer Institute in Statistical Genetics</span></li>
+    <li><span class="date">2021</span><span>All India Rank 1, Actuarial Common Entrance Test (ACET), Institute of Actuaries of India (December 2021 session)</span></li>
     <li><span class="date">2021</span><span>Poster Award, 17th Applied Statistics Conference, Ljubljana</span></li>
     <li><span class="date">2017</span><span>KVPY Fellowship, Government of India</span></li>
     <li><span class="date">2016</span><span>NTSE Scholarship, Government of India</span></li>
