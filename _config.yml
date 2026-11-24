@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Anagh Chattopadhyay's Website
+title: Anagh Chattopadhyay
 
 # Your name to show in the footer
 author: Anagh Chattopadhyay
@@ -20,16 +20,13 @@ author: Anagh Chattopadhyay
 ###############################################
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Research: "research"
   Publications: "publications"
   Talks: "talk"
   Teaching: "teach"
   CV: "CV.pdf"
-  More:
-    - Posts: "posts"
-    - Language Health Group: "https://sites.google.com/view/language-health-wg/home"
-    - Contact: "contact"
+  Contact: "contact"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -88,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Anagh Chattopadhyay, Ph.D. candidate in Biostatistics at Johns Hopkins University
 
 ###########################
 # --- General options --- #
@@ -115,10 +112,10 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -134,17 +131,17 @@ keywords: "Anagh, Chattopadhyay, Biostatistics, Johns Hopkins, Statistical Genet
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+link-col: "#002D72"
+hover-col: "#3A5F9E"
+footer-col: "#FAFBFC"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#002D72"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -159,8 +156,8 @@ google_site_verification:  <meta name="google-site-verification" content="oAwkIl
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -295,10 +292,15 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - hobby.md
+  - posts.md
+  - posts/
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+remove-ads: true
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

@@ -17,3 +17,7 @@ My research focuses on statistical genetics and causal inference, with an emphas
 - **Meta-analysis of black-box predictors.** Functional generalized meta-analysis of black-box predictors with disparate covariate information.
 
 See [Publications](/publications) for papers and preprints.
+
+### Other activities
+
+- [Language and Health Working Group](https://sites.google.com/view/language-health-wg/home)
