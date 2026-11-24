@@ -4,32 +4,19 @@ title: Publications
 description: Anagh's publications
 ---
 
-<!-- <div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#journal">Publications</a></li>
-            <li><a href="#submitted">Submitted</a></li>
-            <li><a href="#progress">In progress</a></li>
-        </ul>
-    </div>
-</div> -->
+Papers, preprints and manuscripts in preparation, as of November 2026. See also my [CV](/CV.pdf).
 
-### <a name="journal"></a>Journal and conference publications
+### <a name="journal"></a>Peer-reviewed publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st May, 2025.
+- **Chattopadhyay, A.** & Deb, S. (2024). A Spatio-Temporal Model for Binary Data and Its Application in Analyzing the Direction of COVID-19 Spread. *AStA Advances in Statistical Analysis*, 108(4), 823–851. [[Journal link]](https://doi.org/10.1007/s10182-024-00507-0)
 
+### <a name="preprints"></a>Preprints
 
-### <a name="submitted"></a>Submitted articles
+- **Chattopadhyay, A.** & Chatterjee, N. (2026). Improving Mendelian Randomization Analysis by Instrument Borrowing from Auxiliary Outcome Traits. [[arXiv:2607.16086]](https://arxiv.org/abs/2607.16086)
 
--  **Chattopadhyay, A.**, Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread. Accepted at AStA Advances in Statistical Analysis.
-- **Chattopadhyay, A.**, Deb, S. Poster presentation at the Applied Statistics Conference 2021 (virtual).
-- **Chattopadhyay, A.**, Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread. Accepted for poster presentation at Bernoulli IMS 2024, Bochum, Germany.
+### <a name="progress"></a>Manuscripts in preparation
 
-
-
-### <a name="progress"></a>Work in progress
-
-
-
-### Other published material
-
+- **Chattopadhyay, A.** & Chatterjee, N. Mediation without the Mediator: Mendelian Randomization through a Latent Pathway.
+- **Chattopadhyay, A.**, Mhatre, S., Dikshit, R., Choudhary, S., Pal Choudhury, P. & Chatterjee, N. A Breast Cancer Risk Prediction Model for Indian Women.
+- **Chattopadhyay, A.**, Baqui, A. H., Khanam, R., Islam, M. S., Akhtar, B., Zhao, N. & Chatterjee, N. Portability of Blood-Pressure Polygenic Scores and Mendelian Randomization of Perinatal Outcomes across South Asian and African Pregnancy Cohorts.
+- **Chattopadhyay, A.** & Kundu, P. Functional Generalized Meta-Analysis of Black-Box Predictors with Disparate Covariate Information.

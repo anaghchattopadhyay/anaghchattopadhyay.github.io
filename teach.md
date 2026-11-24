@@ -6,10 +6,13 @@ description: Anagh Chattopadhyay's teaching
 
 ### <a name="instructor"></a>At Johns Hopkins University
 
-I am a teaching assistant for the following courses at the Johns Hopkins Bloomberg School of Public Health:
+I have served as a teaching assistant for the following courses at the Johns Hopkins Bloomberg School of Public Health:
 
-* Fall 2024: Probability Theory I, Instructor: [Michael A. Rosenblum](https://publichealth.jhu.edu/faculty/2241/michael-a-rosenblum).
-* Fall 2024: Probability Theory II, Instructor: [Michael A. Rosenblum](https://publichealth.jhu.edu/faculty/2241/michael-a-rosenblum).
-* Spring 2024: Probability Theory III, Instructor: [Abhirup Datta](https://publichealth.jhu.edu/faculty/3332/abhirup-datta).
-* Spring 2024: Probability Theory IV, Instructor: [Ciprian M. Crainiceanu](https://publichealth.jhu.edu/faculty/1442/ciprian-m-crainiceanu).
+* **Probability Theory I & II** (also guest lecturer), 2026–2027
+* **Causal Inference I & II** (also guest lecturer on mediation analysis), 2025–2027
+* **Probability Theory I–IV**, 2024–2025
+* **Statistical Methods in Public Health**
 
+### Outreach
+
+* Volunteer mathematics teacher, [CRY (Child Rights and You)](https://www.cry.org), Kolkata

@@ -7,8 +7,8 @@ bigimg:
   - "download(1).jpg" : "Indian Statistical Institute, Kolkata, India"
 ---
 
-I am a third year Ph.D. candidate in the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. My primary research interests are Causal Inference, Statistical Genetics and Machine Learning. I am also interested in the intersection of Health and Linguistics.
-Click [About Me](/about) for more details.
+I am a fourth-year Ph.D. candidate in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), Johns Hopkins Bloomberg School of Public Health, advised by [Nilanjan Chatterjee](https://malonecenter.jhu.edu/people/nilanjan-chatterjee). My research focuses on statistical genetics and causal inference, especially new Mendelian randomization methods, with applications to maternal and perinatal health, breast cancer risk prediction and complex traits across diverse populations. I also work on interpretable AI/ML methods.
+Click [About Me](/about) for more details, or download my [CV](/CV.pdf).
 
  Reach me at achatto4 [at] jh [dot] edu, or check [Contact](/contact) for further information.  
  
@@ -19,12 +19,16 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 <ul>
 <h4> Recent News </h4>
 <font size="3">
-<li> [05/2024] My paper - "Chattopadhyay, A., Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread". Accepted at AStA Advances in Statistical Analysis. </li>
-<li> [05/2024] I will present "Chattopadhyay, A., Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread" as a poster at Bernoulli IMS 2024, Bochum, Germany.</li>
-<li> [06/2023] I am joining the Bloomberg School of Public Health at Johns Hopkins as a PhD student starting from August 2023 </li>
-<li> [09/2023] Poster accepted at SAMGlasgow 2023 (Anagh Chattopadhyay, Soumya Sankar Ghosh, Priyankar Gangopadhyay) </li>
-<li> [10/2023] Paper "Generalization in Natural Language Clustering through Non-Paramatic Statistical Approach" accepted in SN Computer Science(Anagh Chattopadhyay, Soumya Sankar Ghosh, Samir Karmakar) </li>
-<!-- <li> [07/2019] I am going to present my <a href= "https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218583" > work </a> (contributed paper) at JSM 2019, Denver, Colorado. </li> -->
+<li> [11/2026] Invited talk at the BEST Seminar Series, Johns Hopkins University. </li>
+<li> [11/2026] Poster at Genetics Research Day, Johns Hopkins University. </li>
+<li> [10/2026] Contributed talk at the IGES Annual Meeting, Estérel Resort, Quebec, where I was a <b>Roger Williams Award finalist</b>. </li>
+<li> [07/2026] New preprint: "Improving Mendelian Randomization Analysis by Instrument Borrowing from Auxiliary Outcome Traits" (with Nilanjan Chatterjee), <a href="https://arxiv.org/abs/2607.16086">arXiv:2607.16086</a>. </li>
+<li> [06/2026] Invited talk at the Human Genetics Unit, Indian Statistical Institute, Kolkata. </li>
+<li> [2026] Received the ACIC Travel Award from the Society for Causal Inference and the Bruce Weir Scholarship from the Summer Institute in Statistical Genetics (SISG). </li>
+<li> [10/2025] Poster at the ASHG Annual Meeting, Boston, MA. </li>
+<li> [08/2024] Poster at the Bernoulli–IMS World Congress in Probability and Statistics, Bochum, Germany. </li>
+<li> [2024] Paper "A Spatio-Temporal Model for Binary Data and Its Application in Analyzing the Direction of COVID-19 Spread" (with Soudeep Deb) published in <a href="https://doi.org/10.1007/s10182-024-00507-0">AStA Advances in Statistical Analysis</a>. </li>
+<li> [08/2023] Joined the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health as a Ph.D. student. </li>
 </font>
 </ul>
 

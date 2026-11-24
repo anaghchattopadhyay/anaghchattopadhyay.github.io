@@ -4,23 +4,16 @@ title: Research
 description: Anagh's research
 ---
 
-<!-- <div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#grants">Grants</a></li>
-            <li><a href="#students">Doctoral Students</a></li>
-            <li><a href="#others">Others</a></li>
-        </ul>
-    </div>
-</div> -->
+### Overview
 
-### Overview: 
+My research focuses on statistical genetics and causal inference, with an emphasis on developing novel Mendelian randomization (MR) methods that improve instrument selection and validity. I am particularly interested in applications to maternal and perinatal health outcomes, breast cancer risk prediction, and complex trait analysis across diverse populations. I also work on interpretable AI/ML methods.
 
-Primarily, I work on problems related to Health. Following are broadly the fields I have been working on.
+### Current projects
 
-- Biostatistics
-- Causal Inference
-- Genetics
-- Machine Learning and Algorithmic fairness
-- Applications of NLP and Linguistics in Health
+- **Instrument borrowing for MR.** Improving Mendelian randomization by borrowing instruments from auxiliary outcome traits ([arXiv:2607.16086](https://arxiv.org/abs/2607.16086)).
+- **MR through a latent pathway.** Mediation analysis without an observed mediator, using Mendelian randomization.
+- **Breast cancer risk prediction for Indian women.** Building a risk prediction model tailored to Indian women.
+- **Genetics of pregnancy outcomes in diverse cohorts.** Portability of blood-pressure polygenic scores, and MR of perinatal outcomes, across South Asian and African pregnancy cohorts.
+- **Meta-analysis of black-box predictors.** Functional generalized meta-analysis of black-box predictors with disparate covariate information.
 
+See [Publications](/publications) for papers and preprints.

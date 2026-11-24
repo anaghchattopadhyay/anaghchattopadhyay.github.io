@@ -23,12 +23,13 @@ navbar-links:
   About Me: "about"
   Research: "research"
   Publications: "publications"
-  posts: "posts"
-  Language Health Group: "https://sites.google.com/view/language-health-wg/home"
-  Resources :
-    - Teaching: "teach"
+  Talks: "talk"
+  Teaching: "teach"
+  CV: "CV.pdf"
+  More:
+    - Posts: "posts"
+    - Language Health Group: "https://sites.google.com/view/language-health-wg/home"
     - Contact: "contact"
-    - Talks: "talk"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -125,7 +126,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Anagh, Chattopadhyay, Biostatistics, Johns Hopkins"
+keywords: "Anagh, Chattopadhyay, Biostatistics, Johns Hopkins, Statistical Genetics, Mendelian Randomization, Causal Inference"
 
 ######################################
 # --- Colours / background image --- #
