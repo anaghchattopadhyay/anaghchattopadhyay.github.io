@@ -15,7 +15,7 @@ description: Ph.D. candidate in Biostatistics at Johns Hopkins University workin
     <p>Before Hopkins, I received my B.Stat. and M.Stat. from the <a href="https://www.isical.ac.in">Indian Statistical Institute</a>, Kolkata.</p>
 
     <div class="links">
-      <a href="mailto:achatto4@jh.edu">Email</a><span class="sep">/</span><a href="/CV.pdf">CV</a><span class="sep">/</span><a href="https://github.com/anaghchattopadhyay">GitHub</a><span class="sep">/</span><a href="https://twitter.com/anaghchattopad2">Twitter</a>
+      <a href="mailto:achatto4@jh.edu">Email</a><span class="sep">/</span><a href="/CV.pdf">CV</a><span class="sep">/</span><a href="https://github.com/achatto4">GitHub</a><span class="sep">/</span><a href="https://twitter.com/anaghchattopad2">Twitter</a>
     </div>
   </div>
 </div>
