@@ -1,48 +1,91 @@
 ---
-layout: profile
+layout: academic
 title: Anagh Chattopadhyay
-share-description: Ph.D. candidate in Biostatistics at Johns Hopkins working on statistical genetics, causal inference and Mendelian randomization.
+description: Ph.D. candidate in Biostatistics at Johns Hopkins University working on statistical genetics, causal inference and Mendelian randomization.
 ---
 
-<div class="profile-header">
-  <div class="profile-photo">
-    <img src="/assets/img/profile.jpg" alt="Anagh Chattopadhyay">
-  </div>
-  <div class="profile-intro">
+<div class="intro" id="about">
+  <div>
     <h1>Anagh Chattopadhyay</h1>
     <p class="role">Ph.D. Candidate, Department of Biostatistics<br>Johns Hopkins Bloomberg School of Public Health</p>
-    <ul class="profile-links">
-      <li><i class="fas fa-envelope"></i><a href="mailto:achatto4@jh.edu">achatto4@jh.edu</a></li>
-      <li><i class="fas fa-file-alt"></i><a href="/CV.pdf">CV</a></li>
-      <li><i class="fab fa-github"></i><a href="https://github.com/anaghchattopadhyay">GitHub</a></li>
-      <li><i class="fab fa-twitter"></i><a href="https://twitter.com/anaghchattopad2">Twitter</a></li>
-    </ul>
+
+    <p>I am a fourth-year Ph.D. candidate in <a href="https://publichealth.jhu.edu/departments/biostatistics">Biostatistics</a> at Johns Hopkins, advised by <a href="https://malonecenter.jhu.edu/people/nilanjan-chatterjee">Nilanjan Chatterjee</a>. I work on statistical genetics and causal inference, mainly new <strong>Mendelian randomization</strong> methods that make better use of genetic instruments. I apply them to maternal and perinatal health, breast cancer risk prediction, and complex traits in diverse populations. I also work on interpretable machine learning.</p>
+
+    <p>Before Hopkins, I received my B.Stat. and M.Stat. from the <a href="https://www.isical.ac.in">Indian Statistical Institute</a>, Kolkata.</p>
+
+    <div class="links">
+      <a href="mailto:achatto4@jh.edu">Email</a><span class="sep">/</span><a href="/CV.pdf">CV</a><span class="sep">/</span><a href="https://github.com/anaghchattopadhyay">GitHub</a><span class="sep">/</span><a href="https://twitter.com/anaghchattopad2">Twitter</a>
+    </div>
+  </div>
+  <div class="photo">
+    <img src="/assets/img/profile.jpg" alt="Photo of Anagh Chattopadhyay">
   </div>
 </div>
 
-<p>I am a fourth-year Ph.D. candidate in the <a href="https://publichealth.jhu.edu/departments/biostatistics">Department of Biostatistics</a> at the Johns Hopkins Bloomberg School of Public Health, advised by <a href="https://malonecenter.jhu.edu/people/nilanjan-chatterjee">Nilanjan Chatterjee</a>. My research is in statistical genetics and causal inference, with a focus on new Mendelian randomization methods that improve instrument selection and validity. I apply these methods to maternal and perinatal health, breast cancer risk prediction, and complex traits across diverse populations. I also work on interpretable machine learning.</p>
+<section id="news">
+  <h2>News</h2>
+  <ul class="news">
+    <li><span class="date">Nov 2026</span><span>Invited talk at the BEST Seminar Series, Johns Hopkins.</span></li>
+    <li><span class="date">Oct 2026</span><span>Selected as a <strong>Roger Williams Award finalist</strong> at the IGES Annual Meeting, Quebec.</span></li>
+    <li><span class="date">Jul 2026</span><span>New preprint on instrument borrowing for Mendelian randomization, on <a href="https://arxiv.org/abs/2607.16086">arXiv</a>.</span></li>
+    <li><span class="date">Jun 2026</span><span>Invited talk at the Human Genetics Unit, Indian Statistical Institute.</span></li>
+    <li><span class="date">2026</span><span>Received the ACIC Travel Award and the SISG Bruce Weir Scholarship.</span></li>
+  </ul>
+</section>
 
-<p>Before Johns Hopkins, I received my B.Stat. (Hons.) and M.Stat. (with Distinction) from the <a href="https://www.isical.ac.in">Indian Statistical Institute</a>, Kolkata.</p>
+<section id="publications">
+  <h2>Publications</h2>
 
-<ul class="interests">
-  <li>Statistical Genetics</li>
-  <li>Mendelian Randomization</li>
-  <li>Causal Inference</li>
-  <li>Perinatal &amp; Maternal Health</li>
-  <li>Risk Prediction</li>
-  <li>Interpretable ML</li>
-</ul>
+  <h3>Preprints</h3>
+  <ul class="pubs">
+    <li>
+      <div class="pub-title">Improving Mendelian Randomization Analysis by Instrument Borrowing from Auxiliary Outcome Traits</div>
+      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, N. Chatterjee</div>
+      <div><span class="pub-venue">arXiv preprint</span>, 2026 &nbsp;<span class="pub-links"><a href="https://arxiv.org/abs/2607.16086">arXiv</a></span></div>
+    </li>
+  </ul>
 
-<h3>News</h3>
+  <h3>Journal articles</h3>
+  <ul class="pubs">
+    <li>
+      <div class="pub-title">A Spatio-Temporal Model for Binary Data and Its Application in Analyzing the Direction of COVID-19 Spread</div>
+      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, S. Deb</div>
+      <div><span class="pub-venue">AStA Advances in Statistical Analysis</span>, 108(4), 823–851, 2024 &nbsp;<span class="pub-links"><a href="https://doi.org/10.1007/s10182-024-00507-0">Journal</a></span></div>
+    </li>
+  </ul>
 
-<ul class="news">
-  <li><span class="date">Nov 2026</span><span>Invited talk at the BEST Seminar Series, Johns Hopkins University.</span></li>
-  <li><span class="date">Nov 2026</span><span>Poster at Genetics Research Day, Johns Hopkins University.</span></li>
-  <li><span class="date">Oct 2026</span><span>Contributed talk at the IGES Annual Meeting, Quebec; selected as a <strong>Roger Williams Award finalist</strong>.</span></li>
-  <li><span class="date">Jul 2026</span><span>New preprint: <em>Improving Mendelian Randomization Analysis by Instrument Borrowing from Auxiliary Outcome Traits</em> (with N. Chatterjee). <a href="https://arxiv.org/abs/2607.16086">arXiv</a></span></li>
-  <li><span class="date">Jun 2026</span><span>Invited talk at the Human Genetics Unit, Indian Statistical Institute, Kolkata.</span></li>
-  <li><span class="date">2026</span><span>Received the ACIC Travel Award (Society for Causal Inference) and the Bruce Weir Scholarship (SISG).</span></li>
-  <li><span class="date">Oct 2025</span><span>Poster at the ASHG Annual Meeting, Boston.</span></li>
-  <li><span class="date">2024</span><span>Paper published in <em>AStA Advances in Statistical Analysis</em>. <a href="https://doi.org/10.1007/s10182-024-00507-0">Link</a></span></li>
-  <li><span class="date">Aug 2023</span><span>Joined the Biostatistics Ph.D. program at Johns Hopkins.</span></li>
-</ul>
+  <h3>In preparation</h3>
+  <ul class="pubs">
+    <li>
+      <div class="pub-title">Mediation without the Mediator: Mendelian Randomization through a Latent Pathway</div>
+      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, N. Chatterjee</div>
+    </li>
+    <li>
+      <div class="pub-title">Portability of Blood-Pressure Polygenic Scores and Mendelian Randomization of Perinatal Outcomes across South Asian and African Pregnancy Cohorts</div>
+      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, A. H. Baqui, R. Khanam, M. S. Islam, B. Akhtar, N. Zhao, N. Chatterjee</div>
+    </li>
+    <li>
+      <div class="pub-title">A Breast Cancer Risk Prediction Model for Indian Women</div>
+      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, S. Mhatre, R. Dikshit, S. Choudhary, P. Pal Choudhury, N. Chatterjee</div>
+    </li>
+    <li>
+      <div class="pub-title">Functional Generalized Meta-Analysis of Black-Box Predictors with Disparate Covariate Information</div>
+      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, P. Kundu</div>
+    </li>
+  </ul>
+</section>
+
+<section id="talks">
+  <h2>Selected Talks</h2>
+  <ul class="compact">
+    <li><span class="date">Nov 2026</span><span>BEST Seminar Series, Johns Hopkins University <span class="tag">invited</span></span></li>
+    <li><span class="date">Oct 2026</span><span>IGES Annual Meeting, Quebec <span class="tag">Roger Williams Award finalist</span></span></li>
+    <li><span class="date">Jun 2026</span><span>Human Genetics Unit, Indian Statistical Institute, Kolkata <span class="tag">invited</span></span></li>
+  </ul>
+  <p class="muted" style="margin-top:10px">Posters and the full list are in my <a href="/CV.pdf">CV</a>.</p>
+</section>
+
+<section id="teaching">
+  <h2>Teaching</h2>
+  <p>Teaching assistant at Johns Hopkins for Probability Theory I–IV and Causal Inference I &amp; II (including guest lectures on mediation analysis), and Statistical Methods in Public Health.</p>
+</section>

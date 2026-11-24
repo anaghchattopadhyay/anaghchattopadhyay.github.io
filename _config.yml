@@ -11,6 +11,7 @@
 
 # Name of website
 title: Anagh Chattopadhyay
+description: Ph.D. candidate in Biostatistics at Johns Hopkins University
 
 # Your name to show in the footer
 author: Anagh Chattopadhyay
@@ -156,8 +157,8 @@ google_site_verification:  <meta name="google-site-verification" content="oAwkIl
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css:
-  - "/assets/css/custom.css"
+#site-css:
+#  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
