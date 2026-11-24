@@ -4,7 +4,7 @@ permalink: /research/
 ---
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><title>Redirecting…</title>
-<link rel="canonical" href="/#publications">
-<meta http-equiv="refresh" content="0; url=/#publications">
+<link rel="canonical" href="/publications/">
+<meta http-equiv="refresh" content="0; url=/publications/">
 <meta name="robots" content="noindex"></head>
-<body><p>This page has moved to <a href="/#publications">the homepage</a>.</p></body></html>
+<body><p>This page has moved <a href="/publications/">here</a>.</p></body></html>
