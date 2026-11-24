@@ -43,10 +43,6 @@ permalink: /publications/
       <div class="pub-title">A Breast Cancer Risk Prediction Model for Indian Women</div>
       <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, S. Mhatre, R. Dikshit, S. Choudhary, P. Pal Choudhury, N. Chatterjee</div>
     </li>
-    <li>
-      <div class="pub-title">Functional Generalized Meta-Analysis of Black-Box Predictors with Disparate Covariate Information</div>
-      <div class="pub-authors"><span class="me">A. Chattopadhyay</span>, P. Kundu</div>
-    </li>
   </ul>
 </section>
 

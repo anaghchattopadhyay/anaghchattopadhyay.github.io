@@ -30,3 +30,15 @@ description: Ph.D. candidate in Biostatistics at Johns Hopkins University workin
     <li><span class="date">2026</span><span>Received the ACIC Travel Award and the SISG Bruce Weir Scholarship.</span></li>
   </ul>
 </section>
+
+<section id="awards">
+  <h2>Honors &amp; Awards</h2>
+  <ul class="compact">
+    <li><span class="date">2026</span><span>Roger Williams Award finalist, International Genetic Epidemiology Society</span></li>
+    <li><span class="date">2026</span><span>ACIC Travel Award, Society for Causal Inference</span></li>
+    <li><span class="date">2026</span><span>Bruce Weir Scholarship, Summer Institute in Statistical Genetics</span></li>
+    <li><span class="date">2021</span><span>Poster Award, 17th Applied Statistics Conference, Ljubljana</span></li>
+    <li><span class="date"></span><span>KVPY Fellowship, Government of India</span></li>
+    <li><span class="date"></span><span>NTSE Scholarship, Government of India</span></li>
+  </ul>
+</section>
